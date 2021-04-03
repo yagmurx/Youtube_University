@@ -1,4 +1,4 @@
-#Course Studies
+# Course Studies
 
 I'm learning Python, Data Science and Machine Learning online. 
 freeCodeCamp.org Youtube channel is my one of favorite place for learning. 
