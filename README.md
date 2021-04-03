@@ -8,6 +8,4 @@ Started at April 2021, 2nd Class Electronics Eng.
 
 ## Courses that I finished
 
-1. 4 April, 2021 | Git and GitHub for Beginners
-
-$$$ deneme :D
+1. 4 April, 2021 | [Git and GitHub for Beginners] (https://youtu.be/RGOj5yH7evk)
