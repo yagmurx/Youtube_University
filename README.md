@@ -10,3 +10,4 @@ Started at April 2021, 2nd Class Electronics Eng.
 
 1. | 4 April, 2021 | [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 2. | 27 October, 2021 | [Object Oriented Programming (OOP) in C++ Course](https://youtu.be/wN0x9eZLix4)
+3. | XX October, 2022 | [Object Oriented Programming (OOP) in Python]()
